@@ -48,7 +48,7 @@
                                     <li><a href="about" style="font-size: 1.3em">Empresa</a></li>
                                     <li><a href="#" style="font-size: 1.3em">Planos</a></li>
                                     <li><a href="coverage" style="font-size: 1.3em">Área de Cobertura</a></li>
-                                    <li><a href="#" style="background-color: green; font-size: 1.3em">Central do assinante</a></li>
+                                    <li><a href="#" style="background-color: green; font-size: 1.3em; border-radius: 10em;">Central do assinante</a></li>
                                 </ul>
                             </div>
                             <!-- Nav End -->

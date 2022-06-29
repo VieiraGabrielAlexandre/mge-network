@@ -78,7 +78,7 @@
                             <h5>Navegue com altas de velocidades! Até 500 mega de download e 250 mega de upload. Contrate agora.</h5>
                         </div>
                         <div class="cta-btn">
-                            <a href="#" class="btn credit-btn box-shadow">Clique aqui !</a>
+                            <a href="#" class="btn credit-btn box-shadow" style="background-color: green; font-size: 1.3em; border-radius: 10em;">Clique aqui !</a>
                         </div>
                     </div>
                 </div>
