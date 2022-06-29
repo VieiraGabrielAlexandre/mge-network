@@ -23,10 +23,10 @@
         </div>
 
         <!-- Single Slide -->
-        <div class="single-slide bg-img">
-            <!-- Background Image-->
+        <!--<div class="single-slide bg-img">
+             Background Image
             <div class="slide-bg-img bg-img bg-overlay" style="background-image: url(img/logo-mge.jpeg);"></div>
-            <!-- Welcome Text -->
+            <!-- Welcome Text
             <div class="container h-100">
                 <div class="row h-100 align-items-center justify-content-center">
                     <div class="col-12 col-lg-9">
@@ -39,9 +39,9 @@
                     </div>
                 </div>
             </div>
-            <!-- Slide Duration Indicator -->
+            Slide Duration Indicator -
             <div class="slide-du-indicator"></div>
-        </div>
+        </div>-->
 
 
     </div>
