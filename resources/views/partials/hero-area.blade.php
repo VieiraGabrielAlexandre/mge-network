@@ -11,9 +11,9 @@
                     <div class="col-12 col-lg-9">
                         <div class="welcome-text text-center">
                             <h6 data-animation="fadeInUp" data-delay="100ms">MGE TELECOM</h6>
-                            <h2 data-animation="fadeInUp" data-delay="300ms">MGE TELECOM<span> pix</h2>
+                            <h2 data-animation="fadeInUp" data-delay="300ms">MGE TELECOM<span> Conexão</h2>
                             <p data-animation="fadeInUp" data-delay="500ms">MGE TELECOM!</p>
-                            <a href="#" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">Saiba mais</a>
+                            <a href="#" style="background-color: green;" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">Saiba mais</a>
                         </div>
                     </div>
                 </div>
