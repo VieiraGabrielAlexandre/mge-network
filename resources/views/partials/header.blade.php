@@ -12,9 +12,9 @@
                         <!-- Top Contact Info -->
                         <div class="top-contact-info d-flex align-items-center">
                             <a href="#" data-toggle="tooltip" data-placement="bottom" title="xxxl"><img src="img/core-img/location.png" alt="">
-                                <span style="font-size: 60%;">xxxxxxxx</span>
+                                <span style="font-size: 60%;">Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia</span>
                             </a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img src="img/core-img/message.png" alt=""> <span style="font-size: 60%;">mge telecomtelecom@gmail.com</span></a>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img src="img/core-img/message.png" alt=""> <span style="font-size: 60%;">mgenetwork@gmail.com</span></a>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
 
                         <!-- Contact -->
                         <div class="contact">
-                            <a href="#" style="font-size:1em"><img src="img/core-img/call2.png" alt="">  (11) 97967-8053 / 5892-3779   </a>
+                            <a href="#" style="font-size:1.2em"><img src="img/core-img/call2.png" alt="">  (11) 97967-8053 / 5892-3779   </a>
                         </div>
                     </nav>
                 </div>

@@ -526,7 +526,7 @@ img {
           font-weight: 700;
           line-height: 85px; }
           .header-area .credit-main-menu .classy-navbar .contact a:hover {
-            color: #ffffff; }
+            color: black; }
           @media only screen and (min-width: 992px) and (max-width: 1199px) {
             .header-area .credit-main-menu .classy-navbar .contact a {
               font-size: 20px; } }
@@ -865,7 +865,7 @@ img {
 .cta-2-area {
   position: relative;
   z-index: 1;
-  background-color: #69bc46;
+  background-color: #fff;
   padding-top: 50px; }
   .cta-2-area .cta-content .cta-text {
     position: relative;

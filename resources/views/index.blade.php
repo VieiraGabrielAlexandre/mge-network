@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="description" content="MGE Telecom empresa de distribuiçao de internet">
     <meta name="author" content="Vieira Gabriel">
-    <meta name="keywords" content="MGE TELECOM"/>
+    <meta name="keywords" content="MGE Network"/>
 
     <link rel="alternate" href="" hreflang="pt-br" />
     <meta name="robots" content="index, follow">
@@ -26,7 +26,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>MGE Telecom</title>
+    <title>MGE Network</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.ico">
