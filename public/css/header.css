@@ -1,0 +1,31 @@
+.texts{
+  font-size: 100%;
+}
+
+
+.location-size{
+  height: 5%;
+  width: 5%;
+}
+
+.email-size{
+  height: 30%;
+  width: 30%;
+
+}
+
+.logo-size{
+  margin-top: 5px;
+  margin-left: 25px;
+  height: 100%;
+  width: 225px;
+}
+
+.letters-colors{
+  color: rgb(93, 153, 2);
+}
+.mt-per{
+  width: 40%;
+  margin-top: 1.4rem;
+  background: linear-gradient(to top, #6DBE4B, #ffffff)
+}
