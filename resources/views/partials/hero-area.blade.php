@@ -1,17 +1,19 @@
 <div class="hero-area">
-    <div class="hero-slideshow owl-carousel">
+    <div>
 
         <!-- Single Slide -->
-        <div class="single-slide bg-img">
+        <div>
             <!-- Background Image-->
-            <div class="slide-bg-img bg-img " style="background-image: url(img/core-img/conexao1.jpg);"></div>
+            <div class="bg-image d-flex justify-content-sm-start" >
+                <img src="img/core-img/connection.jpeg">
+            </div>
             <!-- Welcome Text -->
             <div class="container h-100">
                 <div class="row h-100 align-items-center justify-content-center">
                     <div class="col-12 col-lg-9">
                         <div class="welcome-text text-center">
                             
-                            <a href="#" style="background-color: green;" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">Saiba mais</a>
+                            <a href="#" style="background-color: #6DBE4B;" class="btn credit-btn mt-50" data-animation="fadeInUp" data-delay="700ms">Saiba mais</a>
                         </div>
                     </div>
                 </div>
@@ -20,24 +22,7 @@
             <div class="slide-du-indicator"></div>
         </div>
 
-        <!-- Single Slide -->
-        <div class="single-slide bg-img">
-             <!--Background Image-->
-            <div class="slide-bg-img bg-img " style="background-image: url(img/core-img/conexao1.jpg);"></div>
-            <!-- Welcome Text -->
-            <div class="container h-100">
-                <div class="row h-100 align-items-center justify-content-center">
-                    <div class="col-12 col-lg-9">
-                        <div class="welcome-text text-center ">
-                           
-                            <a href="#" style="background-color: green;" class="btn credit-btn mt-50" data-animation="fadeInDown" data-delay="700ms">Saiba mais</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!--Slide Duration Indicator -->
-            <div class="slide-du-indicator"></div>
-        </div>
+       
 
 
     </div>

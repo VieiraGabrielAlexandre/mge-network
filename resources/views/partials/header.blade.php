@@ -7,7 +7,7 @@
                     <div class="col-12 d-flex justify-content-between">
                         <!-- Logo Area -->
                         <div class="logo">
-                            <a href="/"><img class="logo-size" src="img/logo-mge-top.png" alt=""></a>
+                            <a href="/"><img class="logo-size" src="img/core-img/logo_new.jpg" alt=""></a>
                         </div>
 
                         <!-- Top Contact Info -->
