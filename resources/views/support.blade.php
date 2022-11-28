@@ -1,6 +1,5 @@
 @extends('index')
 @section('content')
-    @include('partials.hero-area')
     <section class="elements-area p-3">
         <div class="container d-flex justify-content-center">
             
