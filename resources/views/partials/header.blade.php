@@ -2,7 +2,7 @@
     <link rel="stylesheet" href="{{ asset('css/header.css') }}">
         <!-- Top Header Area -->
         <div class="top-header-area">
-            <div class="h-100 mr-3 ml-3 container-max-widths">
+            <div class="h-100 container-max-widths">
                 <div class="row h-100 align-items-center">
                     <div class="col-12 d-flex justify-content-between">
                         <!-- Logo Area -->
@@ -11,11 +11,13 @@
                         </div>
 
                         <!-- Top Contact Info -->
-                        <div class="top-contact-info d-flex align-items-center w-200 mr-4 justify-content-end">
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="xxxl"><img class="location-size"  src="img/core-img/location.png" alt="">
+                        <div class="top-contact-info d-flex align-items-center w-200 mr-4 justify-content-sm-end">
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="xxxl"><img  src="img/core-img/location.png" alt="">
                                 <span class= "texts">Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia</span>
                             </a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img class="email-size" src="img/core-img/message.png" alt=""> <span class= "texts">mgenetwork@gmail.com</span></a>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img src="img/core-img/message.png" alt=""> 
+                                <span class= "texts">mgenetwork@gmail.com</span>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -44,7 +46,7 @@
 
                             <!-- Nav Start -->
                             <div class="classynav ">
-                                <ul class="mt-4">
+                                <ul class="mt-4 mr-4">
                                     <li ><a href="welcome" style=" color:#6DBE4B; font-size:20px; margin-right: 20px;">Home</a></li>
                                     <li ><a href="about" style="color:#6DBE4B; font-size:20px; margin-right: 20px; ">Empresa</a></li>
                                     <li ><a href="#" style="color:#6DBE4B; font-size:20px; margin-right: 20px;">Planos</a></li>
