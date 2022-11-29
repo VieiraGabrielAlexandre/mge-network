@@ -25,11 +25,11 @@
                                 </a>
                             </h6>
                             <div id="collapseOne" class="accordion-content collapse show">
-                                <p>ANossa missão no início foi de trazer para as comunidades um serviço de internet de
+                                <p> A Nossa missão no início foi de trazer para as comunidades um serviço de internet de
                                     qualidade, com uso das mais altas tecnologias, um atendimento rápido e personalizado,
                                     uma vez que muitos bairros ou ruas da região, não tinham sequer disponibilidade
                                     de serviço de internet ou tinham um serviço muito ruim, com tecnologia completamente
-                                    ultrapassada</p>
+                                    ultrapassada. </p>
                             </div>
                         </div>
                         <!-- single accordian area -->

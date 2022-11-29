@@ -28,8 +28,8 @@ Route::get('/about', function() {
 });
 
 Route::get('/plans', function () {
-    //return view('plans');
-    return Redirect::to('https://sistema.mge telecomtelecom.com.br/index.php?tipo=ecommerce&page=produtos');
+    return view('partials.prices_2');
+    //return Redirect::to('https://sistema.mge telecomtelecom.com.br/index.php?tipo=ecommerce&page=produtos');
 });
 
 Route::get('/coverage', function () {
@@ -38,6 +38,10 @@ Route::get('/coverage', function () {
 
 Route::get('/support', function () {
     return view('support');
+});
+
+Route::get('/assinante', function () {
+    return Redirect::to('https://179.43.31.50/central_assinante_web/login');
 });
 
 Route::get('/help', function () {
