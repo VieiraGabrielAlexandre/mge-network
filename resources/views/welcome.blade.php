@@ -41,7 +41,7 @@
                                 </div>
                                 <div class="text">
                                     <h5>Assinar agora!</h5>
-                                    <p>Tenhaa melhor experiencia em banda larga, assine agora mesmo.</p>
+                                    <p>Tenha melhor experiencia em banda larga, assine agora mesmo.</p>
                                 </div>
                             </div>
                         </div>
@@ -75,7 +75,7 @@
                     <!-- Cta Content -->
                     <div class="cta-content d-flex flex-wrap align-items-center justify-content-between">
                         <div class="cta-text">
-                            <h5>Navegue com altas de velocidades! Até 500 mega de download e 250 mega de upload. Contrate agora.</h5>
+                            <h5>Navegue com altas velocidades! Até 500 mega de download e 250 mega de upload. Contrate agora.</h5>
                         </div>
                         <div class="cta-btn">
                             <a href="#" class="btn credit-btn box-shadow" style="background-color: green; font-size: 1.3em; border-radius: 10em;">Clique aqui !</a>

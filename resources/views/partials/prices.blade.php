@@ -10,7 +10,7 @@
         <div class="card card-pricing text-center px-3 mb-4">
             <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm" style="background-color: #69bc46 !important;">70MB</span>
             <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">85,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
+                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">70,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
             </div>
             <div class="card-body pt-0">
                 <ul class="list-unstyled mb-4">
@@ -20,9 +20,9 @@
             </div>
         </div>
         <div class="card card-pricing text-center px-3 mb-4">
-            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm" style="background-color: #69bc46 !important;">300MB</span>
+            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm" style="background-color: #69bc46 !important;">200MB</span>
             <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">120,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
+                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">100,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
             </div>
             <div class="card-body pt-0">
                 <ul class="list-unstyled mb-4">
@@ -34,7 +34,7 @@
         <div class="card card-pricing text-center px-3 mb-4">
             <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm" style="background-color: #69bc46 !important;">400MB</span>
             <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">160,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
+                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">120,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
             </div>
             <div class="card-body pt-0">
                 <ul class="list-unstyled mb-4">
@@ -44,9 +44,9 @@
             </div>
         </div>
         <div class="card card-pricing text-center px-3 mb-4">
-            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm"  style="background-color: #69bc46 !important;">500MB</span>
+            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm"  style="background-color: #69bc46 !important;">600MB</span>
             <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">220,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
+                <h1 class="h3 font-weight-normal text-primary text-center mb-0" style="color: #69bc46 !important" data-pricing-value="15">R$ <span class="price">160,00</span><span class="h6 text-muted ml-2">/ por mês</span></h1>
             </div>
             <div class="card-body pt-0">
                 <ul class="list-unstyled mb-4">
