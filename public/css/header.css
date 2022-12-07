@@ -25,23 +25,52 @@
   color: rgb(93, 153, 2);
 }
 .mt-per{
-  background: linear-gradient(to top, #6DBE4B, #ffffff)
+  background: linear-gradient(to top, #6DBE4B, #ffffff);
+  height: 60px;
+  border-top-left-radius: 100px;
+ 
+  
 }
 
-@media all and (min-width: 1390px){
-  .mt-per{
-    margin-top: 2rem;
-  }
+.contact{
+  margin-top: 15px;
 }
 
-@media all and (max-width: 1200px){
+
+.mt-per{
+  margin-top: 2rem;
+}
+
+
+@media all and (max-width: 1550px){
   .info{
     display: none;
   }
+
+
 
   .texts{
     display: none;
   }
 }
+.number{
+  margin-right: 100px;
+  margin-left: 10px;
+
+}
+
+@media all and (max-width: 1910px){
+
+  .number{
+    margin-right: 10px;
+  }
+}
+
+
+
+
+
+
+
 
 

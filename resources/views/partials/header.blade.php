@@ -47,21 +47,26 @@
                             <!-- Nav Start -->
                             <div class="classynav ">
                                 <ul class="mt-4 mr-4 info">
-                                    <li ><a href="welcome" style=" color:#6DBE4B; font-size:20px; margin-right: 10px;">Home</a></li>
-                                    <li ><a href="about" style="color:#6DBE4B; font-size:20px; margin-right: 10px; ">Empresa</a></li>
-                                    <li ><a href="plans" style="color:#6DBE4B; font-size:20px; margin-right: 10px;">Planos</a></li>
-                                    <li ><a href="coverage" style="color:#6DBE4B; font-size:20px; margin-right: 10px;">Área de Cobertura</a></li>
-                                    <li ><a href="assinante" style="color:white; background-color: #6DBE4B; font-size:20px; border-radius: 10em;">Central do assinante</a></li>
+                                    
+                                    <li ><a href="welcome" style=" color:#6DBE4B; font-size:25px; margin-right: 20px;"><strong>Home</strong></a></li>
+                                    <li ><a href="about" style="color:#6DBE4B; font-size:25px; margin-right: 20px; "><strong>Empresa</strong></a></li>
+                                    <li ><a href="plans" style="color:#6DBE4B; font-size:25px; margin-right: 20px;"><strong>Planos</strong></a></li>
+                                    <li ><a href="coverage" style="color:#6DBE4B; font-size:25px; margin-right: 20px;"><strong>Área de Cobertura</strong></a></li>
+                                    <li ><a href="assinante" style="color:white; background-color: #6DBE4B; font-size:25px; border-radius: 10em;"><strong>Central do assinante</strong></a></li>
                                 </ul>
                             </div>
                             <!-- Nav End -->
                         </div>
 
                         <!-- Contact -->
-                        <nav class=" mt-per col-sm-3 info" >
+                        <nav class=" mt-per info col-4 " >
                             <div class="contact ">
-                                <a href="#" style="font-size:20px;" class="number "><img src="img/core-img/call2.png" alt=""> 
-                                   (11) 97967-8053 / 5892-3779
+                                <a href="#" style="font-size:18px; " class="number "><img src="img/core-img/phone.png" alt=""> 
+                                    <strong>(11) 97967-8053</strong> 
+                                </a>
+
+                                <a href="#" style="font-size:18px;" class="number "><img src="img/core-img/p_call.png" alt="">
+                                    <strong>(11) 5892-3779</strong>
                                 </a>
                             </div>
                         </nav>
