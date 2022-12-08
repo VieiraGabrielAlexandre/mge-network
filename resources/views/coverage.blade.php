@@ -590,7 +590,7 @@
                             <th scope="row">#</th>
                             <td>Vila Santa Lucia</td>
                             <td>Viela Maria Cortada Codorniz</td>
-                        </tr>undefined
+                        </tr>
                         </tbody>
                 </table>
             </div>
