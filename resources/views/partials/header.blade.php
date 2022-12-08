@@ -46,13 +46,13 @@
 
                             <!-- Nav Start -->
                             <div class="classynav ">
-                                <ul class="mt-4 mr-4 info">
+                                <ul class="mt-4 mr-4">
                                     
-                                    <li ><a href="welcome" style=" color:#6DBE4B; font-size:25px; margin-right: 20px;"><strong>Home</strong></a></li>
-                                    <li ><a href="about" style="color:#6DBE4B; font-size:25px; margin-right: 20px; "><strong>Empresa</strong></a></li>
-                                    <li ><a href="plans" style="color:#6DBE4B; font-size:25px; margin-right: 20px;"><strong>Planos</strong></a></li>
-                                    <li ><a href="coverage" style="color:#6DBE4B; font-size:25px; margin-right: 20px;"><strong>Área de Cobertura</strong></a></li>
-                                    <li ><a href="assinante" style="color:white; background-color: #6DBE4B; font-size:25px; border-radius: 10em;"><strong>Central do assinante</strong></a></li>
+                                    <li ><a href="welcome" class=" letter sz szz " ><strong>Home</strong></a></li>
+                                    <li ><a href="about" class=" letter sz szz"><strong>Empresa</strong></a></li>
+                                    <li ><a href="plans" class=" letter sz szz"><strong>Planos</strong></a></li>
+                                    <li ><a href="coverage" class=" letter sz szz"><strong>Área de Cobertura</strong></a></li>
+                                    <li ><a href="assinante" class=" cr sz szz" ><strong>Central do assinante</strong></a></li>
                                 </ul>
                             </div>
                             <!-- Nav End -->
@@ -61,11 +61,11 @@
                         <!-- Contact -->
                         <nav class=" mt-per info col-4 " >
                             <div class="contact ">
-                                <a href="#" style="font-size:18px; " class="number "><img src="img/core-img/phone.png" alt=""> 
+                                <a href="#" class="sz number" ><img src="img/core-img/phone.png" alt=""> 
                                     <strong>(11) 97967-8053</strong> 
                                 </a>
 
-                                <a href="#" style="font-size:18px;" class="number "><img src="img/core-img/p_call.png" alt="">
+                                <a href="#" class="sz number" ><img src="img/core-img/p_call.png" alt="">
                                     <strong>(11) 5892-3779</strong>
                                 </a>
                             </div>

@@ -41,31 +41,107 @@
   margin-top: 2rem;
 }
 
-
-@media all and (max-width: 1550px){
-  .info{
-    display: none;
-  }
-
-
-
-  .texts{
-    display: none;
-  }
-}
 .number{
   margin-right: 100px;
   margin-left: 10px;
+  font-size:18px !important;
 
+}
+
+
+.letter{
+  color:#6DBE4B !important; 
+  font-size:20px !important; 
+  margin-right: 25px !important;
+}
+
+.letter:hover{
+  color:#437d28 !important; 
+  font-size:22px !important;
+}
+
+.cr{
+  color:white !important; 
+  background-color: #6DBE4B !important; 
+  font-size:20px !important; 
+  border-radius: 10em !important;
+}
+
+.cr:hover{ 
+  background-color: #437d28 !important; 
+  font-size:22px !important;
+  border-radius: 12em !important;
 }
 
 @media all and (max-width: 1910px){
 
   .number{
-    margin-right: 10px;
+    font-size:15px !important;
+    margin-right: 50px !important;
   }
 }
 
+@media all and (max-width: 1550px){
+
+  .sz{
+    font-size:15px !important; 
+    margin-right: 8px !important;
+  }
+  .letter:hover{ 
+    font-size:17px !important;
+  }
+  .cr:hover{  
+    font-size:17px !important;
+    border-radius: 12em !important;
+  }
+  
+
+}
+
+@media all and (max-width: 1200px){
+
+  .sz{
+    font-size: 10px !important; 
+    margin-right: 8px !important;
+  }
+
+  .letter:hover{ 
+    font-size:12px !important;
+  }
+
+  .cr:hover{  
+    font-size:12px !important;
+    border-radius: 12em !important;
+  }
+  
+
+}
+
+@media all and (max-width: 990px){
+
+  .szz{
+    font-size: 15px !important; 
+  }
+
+  .letter:hover{ 
+    font-size:17px !important;
+  }
+
+  .cr:hover{  
+    font-size:17px !important;
+    border-radius: 12em !important;
+  }
+
+  .info{
+    display: none;
+  }
+
+  .texts{
+    display: none;
+  }
+  
+
+}
 
 
 
