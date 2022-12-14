@@ -1,4 +1,7 @@
 <footer id="footer" class="footer-area section-padding-100-0" style="background: linear-gradient(to right, #6DBE4B, #ffffff)">
+<div class="section-heading text-center mb-100 wow fadeInUp" data-wow-delay="100ms">
+                        <h2>Nossa Localização</h2>
+                    </div>
 <div class="map-area" style="height:400px">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3653.6408455197147!2d-46.76913271604057!3d-23.688798599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce524013d9994f%3A0xf306157c18561424!2sRua%20Olga%20Moretti%20Ferrari%2C%20228%20-%20Vila%20Santa%20Lucia%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004940-020!5e0!3m2!1spt-BR!2sbr!4v1655472315651!5m2!1spt-BR!2sbr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>    <!-- Contact Area -->
     </div>
