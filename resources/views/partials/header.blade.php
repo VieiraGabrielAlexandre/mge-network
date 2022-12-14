@@ -12,10 +12,10 @@
 
                         <!-- Top Contact Info -->
                         <div class="top-contact-info d-flex align-items-center w-200 mr-5 justify-content-sm-end ">
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="xxxl"><img  src="img/core-img/loc.png" alt="">
+                            <a href="#footer" data-toggle="tooltip" data-placement="bottom" title="xxxl"><img  src="img/core-img/loc.png" alt="">
                                 <span class= "texts">Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia</span>
                             </a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img src="img/core-img/email.png" alt=""> 
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img src="img/core-img/email.png" alt="">
                                 <span class= "texts">mgenetwork.internet@gmail.com</span>
                             </a>
                         </div>
@@ -47,7 +47,7 @@
                             <!-- Nav Start -->
                             <div class="classynav ">
                                 <ul class="mt-4 mr-4">
-                                    
+
                                     <li ><a href="welcome" class=" letter sz szz " ><strong>Home</strong></a></li>
                                     <li ><a href="about" class=" letter sz szz"><strong>Empresa</strong></a></li>
                                     <li ><a href="plans" class=" letter sz szz"><strong>Planos</strong></a></li>
@@ -61,8 +61,8 @@
                         <!-- Contact -->
                         <nav class=" mt-per info col-4 " >
                             <div class="contact ">
-                                <a href="#" class="sz number" ><img src="img/core-img/phone.png" alt=""> 
-                                    <strong>(11) 97967-8053</strong> 
+                                <a href="#" class="sz number" ><img src="img/core-img/phone.png" alt="">
+                                    <strong>(11) 97967-8053</strong>
                                 </a>
 
                                 <a href="#" class="sz number" ><img src="img/core-img/p_call.png" alt="">
@@ -70,7 +70,7 @@
                                 </a>
                             </div>
                         </nav>
-                        
+
                     </nav>
                 </div>
             </div>

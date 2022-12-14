@@ -17,6 +17,7 @@
                     <li>Conexão o tempo todo</li>
                     <li>Garantia de velocidade total</li>
                 </ul>
+                <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Tenho+interesse+no+plano+de+70MB&type=phone_number&app_absent=0" class=" cr sz szz" style="padding: 5%;">Tenho interesse</a>
             </div>
         </div>
         <div class="card card-pricing text-center px-3 mb-4">
@@ -29,6 +30,7 @@
                     <li>Conexão o tempo todo</li>
                     <li>Garantia de velocidade total</li>
                 </ul>
+                <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Tenho+interesse+no+plano+de+2000MB&type=phone_number&app_absent=0" class=" cr sz szz" style="padding: 5%;">Tenho interesse</a>
             </div>
         </div>
         <div class="card card-pricing text-center px-3 mb-4">
@@ -41,6 +43,7 @@
                     <li>Conexão o tempo todo</li>
                     <li>Garantia de velocidade total</li>
                 </ul>
+                <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Tenho+interesse+no+plano+de+400MB&type=phone_number&app_absent=0" class=" cr sz szz" style="padding: 5%;">Tenho interesse</a>
             </div>
         </div>
         <div class="card card-pricing text-center px-3 mb-4">
@@ -53,6 +56,7 @@
                     <li>Conexão o tempo todo</li>
                     <li>Garantia de velocidade total</li>
                 </ul>
+                <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Tenho+interesse+no+plano+de+600MB&type=phone_number&app_absent=0" class=" cr sz szz" style="padding: 5%;">Tenho interesse</a>
             </div>
         </div>
     </div>

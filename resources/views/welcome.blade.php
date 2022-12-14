@@ -19,13 +19,13 @@
                         <!-- Single Service Area -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-service-area d-flex mb-100">
-                                <a href="https://sistema.mge telecomtelecom.com.br/central_assinante_web/login">
+                                <a href=https://179.43.31.50/central_assinante_web/login">
                                     <div class="icon">
                                         <i class="icon-check"></i>
                                     </div>
                                 </a>
                                 <div class="text">
-                                    <a href="https://sistema.mge telecomtelecom.com.br/central_assinante_web/login">
+                                    <a href="https://179.43.31.50/central_assinante_web/login">
                                         <h5>Segunda via do boleto</h5>
                                     </a>
                                     <p>Imprima a segunda via do boleto com rapidez e segurança.</p>
@@ -50,7 +50,7 @@
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-service-area d-flex mb-100">
 
-                                <a href="https://sistema.mge telecomtelecom.com.br/central_assinante_web/login">
+                                <a href="https://179.43.31.50/central_assinante_web/login">
                                     <div class="icon">
                                         <i class="icon-tax-1"></i>
                                     </div>
