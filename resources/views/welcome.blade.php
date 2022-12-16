@@ -36,11 +36,13 @@
                         <!-- Single Service Area -->
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-service-area d-flex mb-100">
+                            <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Gostaria+de+main+informaçoes&type=phone_number&app_absent=0">
                                 <div class="icon">
                                     <i class="icon-idea"></i>
                                 </div>
                                 <div class="text">
                                     <h5>Assinar agora!</h5>
+</a>
                                     <p>Tenha melhor experiencia em banda larga, assine agora mesmo.</p>
                                 </div>
                             </div>
@@ -50,7 +52,7 @@
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-service-area d-flex mb-100">
 
-                                <a href="https://179.43.31.50/central_assinante_web/login">
+                                <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Gostaria+de+main+informaçoes&type=phone_number&app_absent=0">
                                     <div class="icon">
                                         <i class="icon-tax-1"></i>
                                     </div>

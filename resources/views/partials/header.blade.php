@@ -12,10 +12,10 @@
 
                         <!-- Top Contact Info -->
                         <div class="top-contact-info d-flex align-items-center w-200 mr-5 justify-content-sm-end ">
-                            <a href="#footer" data-toggle="tooltip" data-placement="bottom" title="xxxl"><img  src="img/core-img/loc.png" alt="">
+                            <a href="#footer" data-toggle="tooltip" data-placement="bottom" title="Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia"><img  src="img/core-img/loc.png" alt="">
                                 <span class= "texts">Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia</span>
                             </a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgetelecom@gmail.com"><img src="img/core-img/email.png" alt="">
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgenetwork.internet@gmail.com"><img src="img/core-img/email.png" alt="">
                                 <span class= "texts">mgenetwork.internet@gmail.com</span>
                             </a>
                         </div>
