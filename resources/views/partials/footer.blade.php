@@ -1,4 +1,4 @@
-<footer id="footer" class="footer-area section-padding-100-0" style="background: linear-gradient(to right, #6DBE4B, #ffffff);padding-left: 5%;">
+<footer id="footer" class="footer-area section-padding-100-0" style="background: linear-gradient(to right, #6DBE4B, #ffffff);">
 <div class="section-heading mb-100 wow fadeInUp" data-wow-delay="100ms" style="padding-left: 5%">
                         <h4>Como chegar</h4>
                     </div>
