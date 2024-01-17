@@ -77,7 +77,7 @@
                     <!-- Cta Content -->
                     <div class="cta-content d-flex flex-wrap align-items-center justify-content-between">
                         <div class="cta-text">
-                            <h5>Navegue com altas velocidades! Até 500 mega de download e 250 mega de upload. Contrate agora.</h5>
+                            <h5>Navegue com altas velocidades! Até 600 mega de download e 300 mega de upload. Contrate agora.</h5>
                         </div>
                         <div class="cta-btn">
                             <a href="https://api.whatsapp.com/send/?phone=5511979678053&text=Tenho+interesse+nos+planos&type=phone_number&app_absent=0" class="btn credit-btn box-shadow" style="background-color: green; font-size: 1.3em; border-radius: 10em;">Clique aqui !</a>

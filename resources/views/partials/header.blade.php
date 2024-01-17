@@ -15,8 +15,8 @@
                             <a href="#footer" data-toggle="tooltip" data-placement="bottom" title="Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia"><img  src="img/core-img/loc.png" alt="">
                                 <span class= "texts">Rua Olga Moretti Ferrari, 228 - Vila Santa Lucia</span>
                             </a>
-                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgenetwork.internet@gmail.com"><img src="img/core-img/email.png" alt="">
-                                <span class= "texts">mgenetwork.internet@gmail.com</span>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="mgenetwork@mgenetwork.com.br"><img src="img/core-img/email.png" alt="">
+                                <span class= "texts">mgenetwork@mgenetwork.com.br</span>
                             </a>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
                                 </a>
 
                                 <a href="#" class="sz number" ><img src="img/core-img/p_call.png" alt="">
-                                    <strong>(11) 5892-3779</strong>
+                                    <strong>(11) 5833-3511</strong>
                                 </a>
                             </div>
                         </nav>

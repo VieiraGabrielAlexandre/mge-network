@@ -41,7 +41,7 @@ Route::get('/support', function () {
 });
 
 Route::get('/assinante', function () {
-    return Redirect::to('https://179.43.31.50/central_assinante_web/login');
+    return Redirect::to('https://ixc.mgenetwork.net.br/central_assinante_web/login');
 });
 
 Route::get('/help', function () {
